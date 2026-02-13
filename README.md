@@ -16,14 +16,14 @@ Given patient health data, the goal is to build a machine learning model that pr
 ---
 
 ## 📂 Project Structure
-
+```
 ├── train.csv  
 ├── test.csv  
 ├── sample_submission.csv  
 ├── train.py  
 ├── submission.csv  
 └── README.md  
-
+```
 ---
 
 ## ⚙️ Approach
