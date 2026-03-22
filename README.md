@@ -9,6 +9,8 @@ The objective of this competition is to predict whether a patient has heart dise
 
 **[Cardio Risk](https://heart-disease-prediction-gamma.vercel.app/)**
 
+---
+
 ## 📌 Problem Statement
 
 Given patient health data, the goal is to build a machine learning model that predicts the probability of heart disease.
